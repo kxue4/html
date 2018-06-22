@@ -2,6 +2,9 @@
   <dictionary name="Kevin">
     <words>
       <w>cssa</w>
+      <w>darkgray</w>
+      <w>darkgrey</w>
+      <w>lightgrey</w>
       <w>orangered</w>
     </words>
   </dictionary>
